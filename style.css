@@ -1,19 +1,24 @@
 /*
- *Name: [First Last]
- *UnityID: [unityID]
- *Date: [Date Completed]
- *Assignment: [Assignment Name]
- *Description: [Assignment Description]
+ *Name: Alex Zettlemoyer
+ *UnityID: alzettle
+ *Date: 9/18/2020
+ *Assignment: Website Design and Styling Independent Assignment
+ *Description: Independent Assignment, Alex's professional page.
  */
  
 p {
-    property: value;
+    font-family: Times;
+    font-size: 16px;
+    color: #000000;
+    background-color: #d3d3d3;
 }
 
-.class {
-    property: value;
+.table-border {
+    border: 2px solid #000000 ;
 }
 
-#id {
-    property:value;
+#photo-resize {
+    max-width: 200px;
+    max-height: 250px;
+    border: 2px solid #90EE90;
 }
